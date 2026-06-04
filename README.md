@@ -148,6 +148,8 @@ How to Avoid Timeline Errors during Database Switchover Based on Asynchronous St
 
 <a href=https://github.com/markwkm/pg_httpd>pg_httpd</a>
 
+<a href=https://www.enterprisedb.com/blog/exploring-postgress-arena-allocator-writing-http-server-scratch> Exploring Postgres's arena allocator by writing an HTTP server from scratch by Phil Eaton</a>
+
 <a href=https://github.com/timescale/timescaledb/blob/332dffeebc72cf16afbde802e2f19aead9bd7836/tsl/src/nodes/skip_scan/README.md>timescaledb SkipScan</a>
 
 <a href=https://postgres.ai/blog/20220525-common-db-schema-change-mistakes#recommendations>Common DB schema change mistakes</a>
