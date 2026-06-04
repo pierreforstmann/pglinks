@@ -172,13 +172,17 @@ How to Avoid Timeline Errors during Database Switchover Based on Asynchronous St
 
 <a href=https://github.com/eggyknap/pllolcode>LOLCODE language handler for PostgreSQL</a>
 
-<a href=https://blog.dalibo.com/2025/04/07/postgresql-18-module_explain.html>modules optionnes pour EXPLAIN</a>
+<a href=https://blog.dalibo.com/2025/04/07/postgresql-18-module_explain.html>modules optionnels pour EXPLAIN</a>
 
 ### Patch ideas
 
 <a href=https://vondra.me/posts/patch-idea-statistics-for-file-descriptor-cache/> statistics for the file descriptor cache </a>
 
 <a href=https://vondra.me/posts/patch-adaptive-execution-for-in-queries/> adaptive execution for `IN` queries </a>
+
+<a href=https://vondra.me/posts/patch-idea-parallel-pgbench-i/>parallel pgbench -i </a>
+
+<a href=https://vondra.me/posts/patch-idea-amcheck-support-for-brin-indexes/>amcheck support fir brin indexes</a>
 
 <a href=https://wiki.postgresql.org/wiki/Todo>Todo</a>
 
