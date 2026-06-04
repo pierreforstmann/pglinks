@@ -80,6 +80,13 @@ How to Avoid Timeline Errors during Database Switchover Based on Asynchronous St
 
 <a href=https://github.com/nori-shinoda/documents>list of books</a>
 
+### PostgreSQL vs MySQL/MariaDB
+
+<a href=https://rendiment.io/postgresql/mysql/2026/03/31/postgresql-internals-for-mysql-dba.html>PostgreSQL Internals for the MySQL DBA Rendiment<a/>
+
+<a href=https://mariadb.org/mariadb-vs-postgresql-understanding-the-architectural-differences-that-matter/>MariaDB vs PostgreSQL: Understanding the Architectural Differences That Matter</a>
+
+
 ## Internals
 <a href=https://postgrespro.com/community/books/internals>PostgreSQL 14 Internals</a>
 
