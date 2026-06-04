@@ -79,6 +79,11 @@ How to Avoid Timeline Errors during Database Switchover Based on Asynchronous St
 
 <a href=https://h50146.www5.hpe.com/products/software/oe/linux/mainstream/support/lcc/pdf/PostgreSQL_Internals_1_for_PostgreSQL96_en_20170211-1.pdf>PG 9.6 Internals<a/>
 
+## Bugs
+
+<a href=https://blog-postgresql.verite.pro/2024/01/24/pgsql-bugs-annee-2023.html>Les rapports de bugs de Postgres en 2023</a>
+
+<a href=https://www.postgresql.org/list/pgsql-bugs/>pgsql-bugs</a>
 
 ## Formations Dalibo
 
