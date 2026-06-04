@@ -6,6 +6,8 @@
 
 <a href=https://thebuild.com/blog/>The build by Christophe Pettus</a>
 
+<a href=https://boringsql.com/>boring.sql by Radim Marek</a>
+
 ## Admin.
 
 <a href=https://www.crunchydata.com/postgres-tips>PG tips</a>
