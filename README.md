@@ -58,6 +58,9 @@ How to Avoid Timeline Errors during Database Switchover Based on Asynchronous St
 <br>
 <br>
 <a href=https://dev.to/shinyakato_/5-postgresql-locking-behaviors-that-trip-people-up-4k7n>5 PostgreSQL locking behaviors that trip people up</a>
+<br>
+<br>
+<a href=https://onesignal.com/blog/lessons-learned-from-5-years-of-scaling-postgresql/>Lessons Learned From 5 Years of Scaling PostgreSQL</a>
 
 ### PostgreSQL for the Oracle DBA by Kellyn Potvin
 <a href=https://dbakevlar.com/2025/06/oracle-dba-to-postgresql-install-and-architecture-part-i/>Part 1: Install and Architecture </a>
