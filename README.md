@@ -89,6 +89,7 @@ How to Avoid Timeline Errors during Database Switchover Based on Asynchronous St
 
 <a href=https://mariadb.org/mariadb-vs-postgresql-understanding-the-architectural-differences-that-matter/>MariaDB vs PostgreSQL: Understanding the Architectural Differences That Matter</a>
 
+<a href=https://di.nmfay.com/postgres-vs-mysql>the ultimate postgres vs mysql blog post</a>
 
 ## Internals
 <a href=https://postgrespro.com/community/books/internals>PostgreSQL 14 Internals</a>
@@ -172,3 +173,13 @@ How to Avoid Timeline Errors during Database Switchover Based on Asynchronous St
 <a href=https://github.com/eggyknap/pllolcode>LOLCODE language handler for PostgreSQL</a>
 
 <a href=https://blog.dalibo.com/2025/04/07/postgresql-18-module_explain.html>modules optionnes pour EXPLAIN</a>
+
+### Patch ideas
+
+<a href=https://vondra.me/posts/patch-idea-statistics-for-file-descriptor-cache/> statistics for the file descriptor cache </a>
+
+<a href=https://vondra.me/posts/patch-adaptive-execution-for-in-queries/> adaptive execution for `IN` queries </a>
+
+<a href=https://wiki.postgresql.org/wiki/Todo>Todo</a>
+
+
