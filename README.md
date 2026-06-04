@@ -55,7 +55,8 @@ How to Avoid Timeline Errors during Database Switchover Based on Asynchronous St
 <br>
 <br>
 <a href=https://www.sqlservercentral.com/articles/i-too-have-a-production-story-a-downtime-caused-by-postgres-transaction-id-wraparound-problem>Downtime Caused by the Postgres Transaction ID Wraparound Problem</a>
-
+<br>
+<br>
 <a href=https://dev.to/shinyakato_/5-postgresql-locking-behaviors-that-trip-people-up-4k7n>5 PostgreSQL locking behaviors that trip people up</a>
 
 ### PostgreSQL for the Oracle DBA by Kellyn Potvin
