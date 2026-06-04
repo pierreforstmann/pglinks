@@ -1,5 +1,11 @@
 # Miscellaneous PostgreSQL links
 
+## Blogs
+
+<a href=https://vondra.me/> Tomas Vondra blog about Postgres code and community </a>
+
+<a href=https://thebuild.com/blog/>The build by Christophe Pettus</a>
+
 ## Admin.
 
 <a href=https://www.crunchydata.com/postgres-tips>PG tips</a>
