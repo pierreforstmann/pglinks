@@ -66,6 +66,8 @@ How to Avoid Timeline Errors during Database Switchover Based on Asynchronous St
 
 <a href=https://www.crunchydata.com/blog/postgres-internals-hiding-in-plain-sight>Postgres Internals Hiding in Plain Sight</a>
 
+<a href=https://github.com/dataegret/pg-utils>pg-utils (Data Egret)</a>
+
 ### PostgreSQL new features by Noriyoshi Shinoda 
 
 <a href=https://github.com/nori-shinoda/documents>list of books</a>
