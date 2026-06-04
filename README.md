@@ -30,9 +30,6 @@
 How to Avoid Timeline Errors during Database Switchover Based on Asynchronous Streaming Replication </a>
 <br>
 <br>
-<a href=https://pigsty.cc/en/>Pigsty: RDS PG Alternative</a>
-<br>
-<br>
 <a href=https://gitlab.com/gitlab-com/runbooks>GitLab runbooks</a>
 <br>
 <br>
