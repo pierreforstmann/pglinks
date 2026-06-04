@@ -49,6 +49,7 @@ How to Avoid Timeline Errors during Database Switchover Based on Asynchronous St
 <a href=https://haiderzdbre.substack.com/p/10-lessons-from-1000-database-incidents>10 Lessons I Learned After Resolving 1,000+ Database Incidents (Sev-1)</a>
 <br>
 <br>
+<a href=https://www.sqlservercentral.com/articles/i-too-have-a-production-story-a-downtime-caused-by-postgres-transaction-id-wraparound-problem>Downtime Caused by the Postgres Transaction ID Wraparound Problem</a>
 
 ### PostgreSQL for the Oracle DBA by Kellyn Potvin
 <a href=https://dbakevlar.com/2025/06/oracle-dba-to-postgresql-install-and-architecture-part-i/>Part 1: Install and Architecture </a>
