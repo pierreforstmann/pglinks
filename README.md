@@ -120,6 +120,8 @@ How to Avoid Timeline Errors during Database Switchover Based on Asynchronous St
 
 ## Dev.
 
+<a href=https://www.youtube.com/@pgconfdev> PostgreSQL Developement Conference - Youtube </a>
+
 <a href=https://github.com/postgres/postgres>PG source code</a>
 
 <a href=https://doxygen.postgresql.org/>doxygen.postgresql.org</a>
@@ -153,3 +155,7 @@ How to Avoid Timeline Errors during Database Switchover Based on Asynchronous St
 <a href=https://robconery.com/>Rob Conery</a> -  <a href=https://bigmachine.io/products/a-curious-moon/>A Curious Moon</a>
 
 <a href=https://dev.to/ashenblade/postgresql-planner-development-and-debugging-47mc> PostgreSQL planner development and debugging </a>
+
+<a href=https://github.com/eggyknap/pllolcode>LOLCODE language handler for PostgreSQL</a>
+
+<a href=https://blog.dalibo.com/2025/04/07/postgresql-18-module_explain.html>modules optionnes pour EXPLAIN</a>
