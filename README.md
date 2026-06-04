@@ -182,7 +182,7 @@ How to Avoid Timeline Errors during Database Switchover Based on Asynchronous St
 
 <a href=https://vondra.me/posts/patch-idea-parallel-pgbench-i/>parallel pgbench -i </a>
 
-<a href=https://vondra.me/posts/patch-idea-amcheck-support-for-brin-indexes/>amcheck support fir brin indexes</a>
+<a href=https://vondra.me/posts/patch-idea-amcheck-support-for-brin-indexes/>amcheck support for brin indexes</a>
 
 <a href=https://vondra.me/posts/patch-idea-use-copy-for-postgres-fdw-insert-batching/>Using COPY for postgres_fdw INSERT batching</a>
 
