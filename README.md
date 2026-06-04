@@ -120,6 +120,8 @@ How to Avoid Timeline Errors during Database Switchover Based on Asynchronous St
 
 ## Dev.
 
+<a href=https://github.com/pghacking/awesome-postgres-hacking>Awesonme PostgreS Hacking</a>
+
 <a href=https://www.youtube.com/@pgconfdev> PostgreSQL Developement Conference - Youtube </a>
 
 <a href=https://github.com/postgres/postgres>PG source code</a>
