@@ -59,6 +59,8 @@ How to Avoid Timeline Errors during Database Switchover Based on Asynchronous St
 <br>
 <a href=https://www.sqlservercentral.com/articles/i-too-have-a-production-story-a-downtime-caused-by-postgres-transaction-id-wraparound-problem>Downtime Caused by the Postgres Transaction ID Wraparound Problem</a>
 
+<a href=https://dev.to/shinyakato_/5-postgresql-locking-behaviors-that-trip-people-up-4k7n>5 PostgreSQL locking behaviors that trip people up</a>
+
 ### PostgreSQL for the Oracle DBA by Kellyn Potvin
 <a href=https://dbakevlar.com/2025/06/oracle-dba-to-postgresql-install-and-architecture-part-i/>Part 1: Install and Architecture </a>
 <br>
@@ -120,7 +122,11 @@ How to Avoid Timeline Errors during Database Switchover Based on Asynchronous St
 
 ## Dev.
 
-<a href=https://github.com/pghacking/awesome-postgres-hacking>Awesonme PostgreS Hacking</a>
+<a href=https://github.com/pghacking/awesome-postgres-hacking>Awesome Postgres Hacking</a>
+
+<a href=https://github.com/tvondra/pg-hacking-intro>into to Postgres hacking </a>
+
+<a href=https://vondra.me/posts/how-to-pick-the-first-patch/>How to pick the first patch</a>
 
 <a href=https://www.youtube.com/@pgconfdev> PostgreSQL Developement Conference - Youtube </a>
 
@@ -131,6 +137,8 @@ How to Avoid Timeline Errors during Database Switchover Based on Asynchronous St
 <a href=https://github.com/michaelpq/pg_plugins> pg_plugins </a>
 
 <a href=https://archive.fosdem.org/2021/schedule/event/postgresql_extensibility/attachments/slides/4348/export/events/attachments/postgresql_extensibility/slides/4348/fosdem21_postgres_extensibility.pdf> Getting on a hook or PostgreSQL extensibility </a>
+
+<a href=https://www.pgedge.com/blog/returning-multiple-rows-with-postgres-extensions>Returning Multiple Rows With Postgres Extension</a>
 
 <a href=https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/>The Wonders of Postgres Logical Decoding Messages</a>
 
