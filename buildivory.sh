@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# build.sh
+# buildivory.sh
 #
 # build IvorySQL from source with 'ivory' account
 #
