@@ -19,4 +19,8 @@ git format-patch -1 HEAD
 patch is:
 ````001-bug-19558-Fix-user-defined-prefix-operators-and.patch````
 
-### ... or use branch REL_19_BETA2 from https://git.postgresql.org/gitweb/?p=postgresql.git;a=summary (not available in github.com/postgres)
+### ... or use branch REL_19_BETA2 from https://git.postgresql.org/gitweb/?p=postgresql.git;a=summary (not available in github.com/postgres):
+
+```
+git clone https://git.postgresql.org/git/postgresql.git
+```
