@@ -120,17 +120,39 @@ How to Avoid Timeline Errors during Database Switchover Based on Asynchronous St
 
 <a href=https://public.dalibo.com/exports/formation/manuels/formations/devpg/devpg.handout.pdf>DEVPG: Développer avec PG </a>
 
+## Patching
 
+<a href=https://vondra.me/posts/how-to-pick-the-first-patch/>How to pick the first patch</a>
+
+<a href=https://github.com/tvondra/pg-hacking-intro>into to Postgres hacking </a>
+
+<a href=https://peter.eisentraut.org/blog/2023/05/09/how-to-submit-a-patch-by-email-2023-edition>How to submit a patch by email 2023 edition </a>
+
+<a href=https://wiki.postgresql.org/wiki/Reviewing_a_Patch>Reviewing a Patch </a>
+
+<a href=https://mydbanotebook.org/posts/a-reviewer-was-born>A reviewer was born</a>
+
+<a href=https://mydbanotebook.org/posts/patching-postgres-documentation/>Patching Postgres' Documentation</a>
+
+### Patch ideas
+
+<a href=https://vondra.me/posts/patch-idea-statistics-for-file-descriptor-cache/> statistics for the file descriptor cache </a>
+
+<a href=https://vondra.me/posts/patch-adaptive-execution-for-in-queries/> adaptive execution for `IN` queries </a>
+
+<a href=https://vondra.me/posts/patch-idea-parallel-pgbench-i/>parallel pgbench -i </a>
+
+<a href=https://vondra.me/posts/patch-idea-amcheck-support-for-brin-indexes/>amcheck support for brin indexes</a>
+
+<a href=https://vondra.me/posts/patch-idea-use-copy-for-postgres-fdw-insert-batching/>Using COPY for postgres_fdw INSERT batching</a>
+
+<a href=https://wiki.postgresql.org/wiki/Todo>Todo</a>
 
 ## Dev.
 
 <a href=https://github.com/pghacking/awesome-postgres-hacking>Awesome Postgres Hacking</a>
 
-<a href=https://github.com/tvondra/pg-hacking-intro>into to Postgres hacking </a>
-
 <a href=https://wiki.postgresql.org/wiki/The_PostgreSQL_C_Dialect>The PG C Dialect: C conventions and idioms that pervade the PostgreSQL backend </a>
-
-<a href=https://vondra.me/posts/how-to-pick-the-first-patch/>How to pick the first patch</a>
 
 <a href=https://www.youtube.com/@pgconfdev> PostgreSQL Developement Conference - Youtube </a>
 
@@ -176,18 +198,6 @@ How to Avoid Timeline Errors during Database Switchover Based on Asynchronous St
 
 <a href=https://blog.dalibo.com/2025/04/07/postgresql-18-module_explain.html>modules optionnels pour EXPLAIN</a>
 
-### Patch ideas
 
-<a href=https://vondra.me/posts/patch-idea-statistics-for-file-descriptor-cache/> statistics for the file descriptor cache </a>
-
-<a href=https://vondra.me/posts/patch-adaptive-execution-for-in-queries/> adaptive execution for `IN` queries </a>
-
-<a href=https://vondra.me/posts/patch-idea-parallel-pgbench-i/>parallel pgbench -i </a>
-
-<a href=https://vondra.me/posts/patch-idea-amcheck-support-for-brin-indexes/>amcheck support for brin indexes</a>
-
-<a href=https://vondra.me/posts/patch-idea-use-copy-for-postgres-fdw-insert-batching/>Using COPY for postgres_fdw INSERT batching</a>
-
-<a href=https://wiki.postgresql.org/wiki/Todo>Todo</a>
 
 
