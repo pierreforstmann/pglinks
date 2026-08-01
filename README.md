@@ -130,7 +130,7 @@ How to Avoid Timeline Errors during Database Switchover Based on Asynchronous St
 
 <a href=https://wiki.postgresql.org/wiki/Reviewing_a_Patch>Reviewing a Patch </a>
 
-<a href=https://mydbanotebook.org/posts/a-reviewer-was-born>A reviewer was born</a>
+<a href=https://mydbanotebook.org/posts/a-reviewer-was-born>A Reviewer Was Born</a>
 
 <a href=https://mydbanotebook.org/posts/patching-postgres-documentation/>Patching Postgres' Documentation</a>
 
