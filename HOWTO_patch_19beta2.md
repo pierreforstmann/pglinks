@@ -24,3 +24,13 @@ patch is:
 ```
 git clone https://git.postgresql.org/git/postgresql.git
 ```
+
+To build documentation:
+
+```
+cd doc/src/sgml
+make STYLE=website html
+```
+Documentation is available in HTML format in `html`directory.
+
+
