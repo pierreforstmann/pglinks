@@ -1,0 +1,29 @@
+#!/bin/bash
+#
+# bmeson.sh
+#
+# build PG from source with postgres account
+# with meson
+#
+#
+# -----------------------------------------------
+export PGDATA=/var/lib/pgsql/data
+export TARGET=/var/lib/pgsql/local
+set -x
+#
+rm -rf build
+meson setup build --prefix=$TARGET --buildtype=debug -Duuid=e2fs -Dssl=openssl -Dtap_tests=enabled --reconfigure
+cd build
+ninja
+meson test
+#
+rm -rf $TARGET
+mkdir $TARGET 
+ninja install
+#
+export PATH=$TARGET/bin:$PATH
+#
+pg_ctl stop
+rm -rf $PGDATA
+initdb 
+pg_ctl -D $PGDATA -l logfile start

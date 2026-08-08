@@ -1,8 +1,9 @@
 #!/bin/bash
 #
-# build.sh
+# bmake.sh
 #
 # build PG from source with postgres account
+# with make
 #
 #
 # -----------------------------------------------
