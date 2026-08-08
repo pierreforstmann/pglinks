@@ -12,7 +12,7 @@ export TARGET=/var/lib/pgsql/local
 set -x
 #
 make clean
- ./configure --prefix=$TARGET --enable-debug --with-uuid=e2fs --with-openssl --with-python
+ ./configure --prefix=$TARGET --enable-debug --with-uuid=e2fs --with-openssl --enable-tap-tests
 make -j
 make check
 #
