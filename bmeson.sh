@@ -12,7 +12,8 @@ export TARGET=/var/lib/pgsql/local
 set -x
 #
 rm -rf build
-meson setup build --prefix=$TARGET --buildtype=debug -Duuid=e2fs -Dssl=openssl -Dtap_tests=enabled --reconfigure
+make distclean
+meson setup build --prefix=$TARGET --buildtype=debug -Dcassert=true -Duuid=e2fs -Dssl=openssl -Dtap_tests=enabled 
 cd build
 ninja
 meson test
