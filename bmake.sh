@@ -20,6 +20,17 @@ rm -rf $TARGET
 mkdir $TARGET 
 make install
 #
+# must build and install contrib extensions for 'make installcheck-world'
+#
+cd contrib
+make
+make install
+#
+# must be run for make 'installcheck-world'
+# 
+cd ..
+make -C src/test/modules/test_extensions install
+#
 export PATH=$TARGET/bin:$PATH
 #
 pg_ctl stop
